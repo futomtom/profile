@@ -48,7 +48,7 @@
    ```
    The above apps ALL developed by me. 
    ```
----
+
 * Some UI of above Apps. 
 
 ![](https://github.com/futomtom/profile/raw/master/ui1.gif)
