@@ -66,7 +66,7 @@ Some UI of above Apps.
 * non IOS:
    * OpenCV：newbie. studying on openCV, CNN, 
 	 * Find Edge	
-![](https://github.com/futomtom/resume/raw/master/opencv1.jpg)
+![](https://github.com/futomtom/profile/raw/master/opencv1.jpg)
 ![](https://github.com/futomtom/resume/raw/master/opencv2.jpg)
  
     * Find Contour	
