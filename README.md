@@ -9,19 +9,18 @@
 
 * Skills: 
     * Language:swift, objective-C , C, python. 
-    * Third Party:firebase, Realm, OpenCV.   
+    * Third party:firebase, Realm, OpenCV.   
     * Tools:JIRA, git, Dash, Postman, Reveal, Charles, fastlane,cocopod,Carthage
-    * Programming in swift,Objective-C.
-	* Alamofire, SwiftJSON,Postman,Charles to develop REST service. 
-	* CoreData:multiple context, performblock ,fetch result paging, manual migration.
+	* Alamofire, SwiftJSON,Postman,Charles to develop REST service.
+	* Interative with Bluetooth device.   
+	* CoreData:multiple context, performBlock ,fetch result paging, manual migration.
 	* Realm,Filebase: real time data sync between multiple clients.
 	* Autolayout, UIStackView, constrain priority to implement UI.     
-	* Release to testflight, appstore.
+	* Release Tasks:TestFlight, Appstore, In app purchase.
 	* Apple pay, In app purchase. sandbox environment test.  
 	* Multithread with NSOperation or GCD. 
 	* iOS 10 interaction push notification. 
-	* Automation build with fastlane or command line script. 
-	* TableView, CollecctionView customization and Transition, view animation.
+	* Automation build and test with fastlane or command line script. 
 	* My github: https://github.com/futomtom.
 
 * Profolio:  
