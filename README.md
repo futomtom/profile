@@ -8,11 +8,10 @@
 
 * Language:swift, objective-C,C,python. 
 * Framework:firebase, Realm, OpenCV. fastlane  
-* Tools:JIRA,git,postman,Reveal,Charles.
+* Tools:JIRA,git,Dash(code snippet),postman(REST tool),Reveal(UI insight),Charles(network sniffer).
 * My github:
 https://github.com/futomtom.
 
-    
 Profolio
 
 https://itunes.apple.com/us/app/dynolife/id1050368016?mt=8#
@@ -31,6 +30,7 @@ Personal App(developed by only me):
 
 https://github.com/futomtom/BookingApp
 ```
+coding in swift 3.0 
 use Firebase to real time data sync between different mobile clients.  
 under reviewer #Facebook login , #google login , #Firebase , #push notification,#coreData
 ![live demo](https://youtu.be/Uu4bA6-zPD0) 
@@ -64,8 +64,8 @@ Some UI of above Apps.
 
 
 * non IOS:
-   * OpenCV：newbie.
-Find Edge	
+   * OpenCV：newbie. studying on openCV, CNN, 
+	 * Find Edge	
 ![](https://github.com/futomtom/resume/raw/master/opencv1.jpg)
 ![](https://github.com/futomtom/resume/raw/master/opencv2.jpg)
  
