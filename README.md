@@ -37,17 +37,17 @@
  
      ```
      1. Watchkit: with apple watch app
-    2. CoreData: save user data with CoreData
+     2. CoreData: save user data with CoreData
 ```
   - https://itunes.apple.com/us/app/sidc-hotel-control/id885790469?mt=8
- - https://itunes.apple.com/us/app/sidc-control-hotel-room-control/id975032489?mt=8
- - https://itunes.apple.com/us/app/movie-tv-themoviedb/id802927801?mt=8
- - https://itunes.apple.com/us/app/episold-home/id873227200?mt=8
- - https://itunes.apple.com/us/app/hot-sales/id802857855?mt=8
- - https://itunes.apple.com/us/app/tai-hao-chi/id815821678?mt=8
-```
-The above apps ALL developed by me. 
-```
+  - https://itunes.apple.com/us/app/sidc-control-hotel-room-control/id975032489?mt=8
+  - https://itunes.apple.com/us/app/movie-tv-themoviedb/id802927801?mt=8
+  - https://itunes.apple.com/us/app/episold-home/id873227200?mt=8
+  - https://itunes.apple.com/us/app/hot-sales/id802857855?mt=8
+  - https://itunes.apple.com/us/app/tai-hao-chi/id815821678?mt=8
+   ```
+   The above apps ALL developed by me. 
+   ```
 ---
 * Some UI of above Apps. 
 
