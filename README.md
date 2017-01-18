@@ -1,16 +1,30 @@
 | email      | fualex@hotmail.com |
 |-----------|:------------:|
 | tel | 415-589-9153  |
+| Linkedin | https://www.linkedin.com/in/shihhuafu  |
+| Location | San Jose  |
+| iOS developer | Dynosense Inc. |
 
-
+ 
 
 * Skills: 
     * Language:swift, objective-C , C, python. 
-    * Framework:firebase, Realm, OpenCV. fastlane  
-    * Tools:JIRA, git, Dash[code snippet], postman[REST tool], Reveal[UI insight], Charles[network sniffer].
-    * My github: https://github.com/futomtom.
+    * Third Party:firebase, Realm, OpenCV.   
+    * Tools:JIRA, git, Dash, Postman, Reveal, Charles, fastlane,cocopod,Carthage
+    * Programming in swift,Objective-C.
+	* Alamofire, SwiftJSON,Postman,Charles to develop REST service. 
+	* CoreData:multiple context, performblock ,fetch result paging, manual migration.
+	* Realm,Filebase: real time data sync between multiple clients.
+	* Autolayout, UIStackView, constrain priority to implement UI.     
+	* Release to testflight, appstore.
+	* Apple pay, In app purchase. sandbox environment test.  
+	* Multithread with NSOperation or GCD. 
+	* iOS 10 interaction push notification. 
+	* Automation build with fastlane or command line script. 
+	* TableView, CollecctionView customization and Transition, view animation.
+	* My github: https://github.com/futomtom.
 
-* Profolio
+* Profolio:  
 
    - https://itunes.apple.com/us/app/dynolife/id1050368016?mt=8#
    ```
