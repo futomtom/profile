@@ -56,21 +56,21 @@ Apps developed by me. Developer name in Appstore ALL are "Alex Fu".
 ---
 Some UI of above Apps. 
 
-![](https://github.com/futomtom/resume/raw/master/ui1.gif)
-![](https://github.com/futomtom/resume/raw/master/ui2.gif)
-![](https://github.com/futomtom/resume/raw/master/ui3.gif)
-![](https://github.com/futomtom/resume/raw/master/ui4.gif)
-![](https://github.com/futomtom/resume/raw/master/ui5.gif)
+![](https://github.com/futomtom/profile/raw/master/ui1.gif)
+![](https://github.com/futomtom/profile/raw/master/ui2.gif)
+![](https://github.com/futomtom/profile/raw/master/ui3.gif)
+![](https://github.com/futomtom/profile/raw/master/ui4.gif)
+![](https://github.com/futomtom/profile/raw/master/ui5.gif)
 
 
 * non IOS:
    * OpenCV：newbie. studying on openCV, CNN, 
 	 * Find Edge	
 ![](https://github.com/futomtom/profile/raw/master/opencv1.jpg)
-![](https://github.com/futomtom/resume/raw/master/opencv2.jpg)
+![](https://github.com/futomtom/profile/raw/master/opencv2.jpg)
  
     * Find Contour	
-![](https://github.com/futomtom/resume/raw/master/opencv3.png)
+![](https://github.com/futomtom/profile/raw/master/opencv3.png)
 
     * Detect Shape 	
-![](https://github.com/futomtom/resume/raw/master/opencv4.png)
+![](https://github.com/futomtom/profile/raw/master/opencv4.png)
