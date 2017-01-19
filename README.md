@@ -4,18 +4,19 @@
 | Linkedin | https://www.linkedin.com/in/shihhuafu  |
 | Location | San Jose  |
 | iOS developer | Dynosense Inc. |
+|  |US resident. |
 
  
 
 * Skills: 
     * Language:swift, objective-C , C, python. 
     * Third party:firebase, Realm, OpenCV.   
-    * Tools:JIRA, git, Dash, Postman, Reveal, Charles, fastlane,cocopod,Carthage
-	* Alamofire, SwiftJSON,Postman,Charles to develop REST service.
+    * Tools:JIRA, git, Dash, Postman, Reveal, Charles, CoreData Editor, fastlane
+	* Alamofire, SwiftJSON, Postman, Charles to develop REST service.
 	* Interative with Bluetooth device.   
 	* CoreData:multiple context, performBlock ,fetch result paging, manual migration.
 	* Realm,Filebase: real time data sync between multiple clients.
-	* Autolayout, UIStackView, constrain priority to implement UI.     
+	* Autolayout, UIStackView, constraint priority to implement UI.     
 	* Release Tasks:TestFlight, Appstore, In app purchase.
 	* Apple pay, In app purchase. sandbox environment test.  
 	* Multithread with NSOperation or GCD. 
