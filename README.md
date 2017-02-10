@@ -10,8 +10,8 @@
 
 * Skills: 
     * Language: swift, Objective-C , C.
-    * Frameworks experience: UIKit, CoreBlooth, MapKit, AVKit , etc.    
-    * Tools: JIRA, git, Dash, Postman, Reveal, Charles, CoreData Editor, fastlane
+    * Frameworks experience: UIKit, CoreBlooth, MapKit, AVKit , etc.
+    * please visit my github page with some gif of UI I developed.  https://goo.gl/17zMQE    
 	* Integrate REST service with async operation.
 	* Communicate with Bluetooth device.  
 	* Video streaming with AVKITitem and KVO. 
@@ -22,7 +22,13 @@
 	* Multithread with Operation or GCD. 
     * Third party:firebase, Realm, OpenCV.
 	* Automation build and test with fastlane or command line script. 
-	* My github: https://github.com/futomtom.
+	* Tools: JIRA, git, Dash, Postman, Reveal, Charles, CoreData Editor, fastlane, Charles. 
+	
+
+Experience:
+   * iOS developer@Dynosense San Jose.  2016.06-Now
+   * iOS developer@SanYu inc Taipei 2012-2016
+   * Embedded system developer@ HTC, BenQ, Compal. Taiwan. 
 
 * Profolio:  
    - https://itunes.apple.com/us/app/dynolife/id1050368016?mt=8#
