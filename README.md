@@ -9,26 +9,25 @@
  
 
 * Skills: 
-    * Language:swift, objective-C , C, python. 
-    * Third party:firebase, Realm, OpenCV.   
-    * Tools:JIRA, git, Dash, Postman, Reveal, Charles, CoreData Editor, fastlane
-	* Alamofire, SwiftJSON, Postman, Charles to develop REST service.
-	* Interative with Bluetooth device.   
-	* CoreData:multiple context, performBlock ,fetch result paging, manual migration.
+    * Language: swift, Objective-C , C.
+    * Frameworks experience: UIKit, CoreBlooth, MapKit, AVKit , etc.    
+    * Tools: JIRA, git, Dash, Postman, Reveal, Charles, CoreData Editor, fastlane
+	* Integrate REST service with async operation.
+	* Communicate with Bluetooth device.  
+	* Video streaming with AVKITitem and KVO. 
+	* CoreData:multiple context, async fectch, manual migration.
 	* Realm,Filebase: real time data sync between multiple clients.
-	* Autolayout, UIStackView, constraint priority to implement UI.     
-	* Release Tasks:TestFlight, Appstore, In app purchase.
-	* Apple pay, In app purchase. sandbox environment test.  
-	* Multithread with NSOperation or GCD. 
-	* iOS 10 interaction push notification. 
+	* Autolayout, UIStackView, constraint priority.     
+	* Release:TestFlight, Appstore, In app purchase. 
+	* Multithread with Operation or GCD. 
+    * Third party:firebase, Realm, OpenCV.
 	* Automation build and test with fastlane or command line script. 
 	* My github: https://github.com/futomtom.
 
 * Profolio:  
-
    - https://itunes.apple.com/us/app/dynolife/id1050368016?mt=8#
    ```
-1.BLE device:commute with BlueTooth Blood pressure monitor.    
+1.BLE device:commute with BlueTooth blood pressure monitor.    
 2.REST(JSON,XML,Protocol Buffer):connect 3rd party API. 
 3.speechSynthesizer: voice tutor. 
 4.push notification. 
@@ -70,15 +69,7 @@
 ![](https://github.com/futomtom/profile/raw/master/ui3.gif)
 ![](https://github.com/futomtom/profile/raw/master/ui4.gif)
 ![](https://github.com/futomtom/profile/raw/master/ui5.gif)
+![](https://github.com/futomtom/profile/raw/master/demo.gif)
 
 
-  * OpenCV：newbie. studying on openCV, CNN, 
-	 * Find Edge	
-![](https://github.com/futomtom/profile/raw/master/opencv1.jpg)
-![](https://github.com/futomtom/profile/raw/master/opencv2.jpg)
  
-    * Find Contour	
-![](https://github.com/futomtom/profile/raw/master/opencv3.png)
-
-    * Detect Shape 	
-![](https://github.com/futomtom/profile/raw/master/opencv4.png)
