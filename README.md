@@ -13,9 +13,9 @@
     * Frameworks experience: UIKit, CoreBlooth, MapKit, AVKit , etc.
     * please visit my github page with some gif of UI I developed.  https://goo.gl/17zMQE    
 	* Integrate REST service with async operation.
-	* Communicate with Bluetooth device.  
+	* Communicate with device by BLE and Protobuf.  
 	* Video streaming with AVKITitem and KVO. 
-	* CoreData:multiple context, async fectch, manual migration.
+	* CoreData:multiple context, async fetch, manual migration.
 	* Realm,Filebase: real time data sync between multiple clients.
 	* Autolayout, UIStackView, constraint priority.     
 	* Release:TestFlight, Appstore, In app purchase. 
@@ -25,7 +25,7 @@
 	* Tools: JIRA, git, Dash, Postman, Reveal, Charles, CoreData Editor, fastlane, Charles. 
 	
 
-Experience:
+* Work  Experience:
    * iOS developer@Dynosense San Jose.  2016.06-Now
    * iOS developer@SanYu inc Taipei 2012-2016
    * Embedded system developer@ HTC, BenQ, Compal. Taiwan. 
