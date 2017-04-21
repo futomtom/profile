@@ -9,25 +9,26 @@
  
 
 * Skills: 
-    * Language: swift, Objective-C , C.
+    * Language: Swift, Objective-C , C.
     * Frameworks experience: UIKit, CoreBlooth, MapKit, AVKit , etc.
-    * please visit my github page with some gif of UI I developed.  https://goo.gl/17zMQE    
-	* Integrate REST service with async operation.
+    * Please visit my github page with some gif of UI I developed.  https://goo.gl/17zMQE    
 	* Communicate with device by BLE and Protobuf.  
-	* Video streaming with AVKITitem and KVO. 
-	* CoreData:multiple context, async fetch, manual migration.
+	* Audio/video streaming with PlayerItem and KVO. 
+	* CoreData:background task/context, async fetch, manual migration.
 	* Realm,Filebase: real time data sync between multiple clients.
-	* Autolayout, UIStackView, constraint priority.     
-	* Release:TestFlight, Appstore, In app purchase. 
+	* Autolayout, dynamic cell high, UIStackView, constraint priority.     
+	* Release:TestFlight, Appstore, In app purchase, fastlane Continue integration.
+	* Network relation operation, and priority ,notification, REST API. 
 	* Multithread with Operation or GCD. 
-    * Third party:firebase, Realm, OpenCV.
 	* Automation build and test with fastlane or command line script. 
 	* Tools: JIRA, git, Dash, Postman, Reveal, Charles, CoreData Editor, fastlane, Charles. 
-	
+	* Reverse engineer with JB phone, reveal loader, dumper. 
 
-* Work  Experience:
-   * iOS developer@Dynosense San Jose.  2016.06-Now
-   * iOS developer@SanYu inc Taipei 2012-2016
+* Work Experience:
+   * iOS developer@Dynosense San Jose.  2016.06-Now 
+     Develop 60% of whole app, migrate whole codebase from 2.2 to 2.3 and 3.0, implemented function incldue:communicate with BLE device.
+     retrieve data and draw them into chart, save/get data from server, UI.  
+   * iOS developer@SanYu inc Taipei 2012-2016 develop several apps for customers.  
    * Embedded system developer@ HTC, BenQ, Compal. Taiwan. 
 
 * Profolio:  
