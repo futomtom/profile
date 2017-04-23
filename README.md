@@ -9,6 +9,7 @@
  
 
 * Skills: 
+    * please visit my portfolio at http://futomtom.github.io 
     * Language: Swift, Objective-C , C.
     * Frameworks experience: UIKit, CoreBlooth, MapKit, AVKit , etc.
     * Please visit my github page with some gif of UI I developed.  https://goo.gl/17zMQE    
