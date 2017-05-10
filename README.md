@@ -2,6 +2,7 @@
 |-----------|:------------:|
 | tel | 415-589-9153  |
 | Linkedin | https://www.linkedin.com/in/shihhuafu  |
+| website | https://futomtom.github.io/ |
 | Location | San Jose  |
 | iOS developer | Dynosense Inc. |
 |  |US resident. |
@@ -9,21 +10,19 @@
  
 
 * Skills: 
-    * please visit my portfolio at http://futomtom.github.io 
     * Language: Swift, Objective-C , C.
-    * Frameworks experience: UIKit, CoreBlooth, MapKit, AVKit , etc.
-    * Please visit my github page with some gif of UI I developed.  https://goo.gl/17zMQE    
-	* Communicate with device by BLE and Protobuf.  
-	* Audio/video streaming with PlayerItem and KVO. 
-	* CoreData:background task/context, async fetch, manual migration.
-	* Realm,Filebase: real time data sync between multiple clients.
-	* Autolayout, dynamic cell high, UIStackView, constraint priority.     
-	* Release:TestFlight, Appstore, In app purchase, fastlane Continue integration.
-	* Network relation operation, and priority ,notification, REST API. 
+    * Frameworks: UIKit, WatchKit, CoreBlooth, MapKit, AVKit, HealthKit, CoreAnimation, CoreGraphics, EventKit, MetalKit, CoreData , PassKit.  
+    * 3rd Party: alamofire. swiftyJson, AWSCore, ASWS3, PromiseKit, Protobuf, CocoaAsyncSocket.
+    * Database: Realm, Filebase, RESTful. 
+    * Tools: Instruments, JIRA, git, Dash, Postman, Reveal,wireshark, Charles, CoreData Editor, fastlane , SwiftLint , swiftbeaver
+    * Debug: LLDB command, View Debug , Memory Graph, Thread Sanitizer, 
+    * I love to visit raywenderlich.com, NatashaTheRobot, realm.io
+	* features of App I shipped on Appstore: Communicate with BLE device, Audio/video streaming.  
+	* CoreData:background task/context, async fetch, manual migration.    
+	* Release:TestFlight, Appstore, In app purchase, fastlane Continue integration. 
 	* Multithread with Operation or GCD. 
 	* Automation build and test with fastlane or command line script. 
-	* Tools: JIRA, git, Dash, Postman, Reveal, Charles, CoreData Editor, fastlane, Charles. 
-	* Reverse engineer with JB phone, reveal loader, dumper. 
+	
 
 * Work Experience:
    * iOS developer@Dynosense San Jose.  2016.06-Now 
@@ -48,7 +47,6 @@
  3. Support Facebook login , Google login , id-password login.
  4.  notification,#coreData 
  ```
- [demo video](https://youtu.be/Uu4bA6-zPD0)
 
  * https://itunes.apple.com/us/app/keyboardgame-funny/id1187188236?mt=8
 ```
@@ -70,14 +68,6 @@
    The above apps ALL developed by me. 
    ```
 
-* Some UI of above Apps. 
-
-![](https://github.com/futomtom/profile/raw/master/ui1.gif)
-![](https://github.com/futomtom/profile/raw/master/ui2.gif)
-![](https://github.com/futomtom/profile/raw/master/ui3.gif)
-![](https://github.com/futomtom/profile/raw/master/ui4.gif)
-![](https://github.com/futomtom/profile/raw/master/ui5.gif)
-![](https://github.com/futomtom/profile/raw/master/demo.gif)
 
 
  
