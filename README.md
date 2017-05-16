@@ -28,6 +28,10 @@
      retrieve data and draw them into chart, save/get data from server, UI.  
    * iOS developer@SanYu inc Taipei 2012-2016 develop several apps for customers.  
    * Embedded system developer@ HTC, BenQ, Compal. Taiwan. 
+   
+* Education:
+	Yuan Ze university, Taiwan , Computer Engineering, Master  
+	Yuan Ze university, Taiwan , Computer Engineering, Bachelor
 
 * Profolio:  
    - https://itunes.apple.com/us/app/dynolife/id1050368016?mt=8#
